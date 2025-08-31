@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Ansh Goel!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salesforce+Developer+%F0%9F%9A%80;Enterprise+Solutions+Architect;AI+%26+Cloud+Enthusiast;Future+MS+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salesforce+Developer+%F0%9F%9A%80;Technical+Consultant;AI+%26+Cloud+Enthusiast;Future+MS+Student" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300"/>
 
