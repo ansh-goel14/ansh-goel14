@@ -145,7 +145,7 @@ public class AnshGoel {
 **Always excited to collaborate on innovative projects whether it's Salesforce development, AI exploration, or just tech discussions 💬**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/its-ansh-goel)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:anshgoel1401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:anshgoel7202@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50">
 
