@@ -58,7 +58,7 @@
 
 ### **Professional Path**
 - 🏢 **Associate Developer** @ PwC *(Current)*
-- 💼 **Intern/Trainee** @ PwC *(9 months)*  
+- 💼 **Intern/Trainee** @ PwC *(8 months)*  
 - 🌱 **Admin Intern** @ PwC *(3 months)*
 
 ---
