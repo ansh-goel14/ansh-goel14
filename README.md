@@ -142,8 +142,7 @@ public class AnshGoel {
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50">
 
-**Always excited to collaborate on innovative projects!**  
-Whether it's Salesforce development, AI exploration, or just tech discussions 💬
+**Always excited to collaborate on innovative projects whether it's Salesforce development, AI exploration, or just tech discussions 💬**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/its-ansh-goel)
 [![Email](https://img.shields.io/badge/Email-Drop_a_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:anshgoel1401@gmail.com)
