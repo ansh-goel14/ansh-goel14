@@ -52,8 +52,7 @@
 <img align="left" alt="Education" width="50" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif">
 
 ### **Education**
-**B.Tech Computer Science Engineering** | *VIT Chennai* (2020-2024)  
-     **CGPA:** 8.37/10 ⭐
+**B.Tech Computer Science Engineering** | *VIT Chennai* (2020-2024)         **CGPA:** 8.37/10 ⭐
 
 <img align="left" alt="Work" width="50" src="https://user-images.githubusercontent.com/74038190/216644507-f5c2d0d4-78fd-43e6-a8ac-3b8de1c63f84.gif">
 
