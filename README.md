@@ -16,7 +16,7 @@
 
 🎯 **Salesforce Developer** at **PwC** crafting enterprise solutions  
 🔮 Building the future with **Apex**, **Lightning Web Components**, and **AI**  
-🌍 Based in **Delhi, India** 🇮🇳  
+🌍 Based in **Ghaziabad, Delhi NCR** 🇮🇳  
 🎓 **Computer Science Graduate** from **VIT Chennai**  
 🚀 Aspiring **MS student** with dreams in **AI & Data Science**  
 
