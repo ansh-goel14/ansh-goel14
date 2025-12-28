@@ -67,9 +67,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce PD 1** *(Dec 2025)*
-<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce Data Cloud Consultant** *(Dec 2024)*
-<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce AI Associate** *(Jul 2024)*  
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce PD 1**
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce Data Cloud Consultant**
+<img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Salesforce AI Associate**  
 <img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Microsoft Security Fundamentals (SC-900)**  
 <img src="https://user-images.githubusercontent.com/74038190/216644505-b3c92f92-3c1b-4a62-b1c7-9d9e3e4c9e7f.gif" width="30"> **Prompt Engineering for ChatGPT**  
 
