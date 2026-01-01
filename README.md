@@ -4,15 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salesforce+Engineer+%40+PwC;Aspiring+AI+Researcher;MS+Computer+Science+%7C+Fall+2026" alt="Typing SVG" />
 
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+
 ---
 
-### 🎯 *From enterprise systems to intelligent systems*
+### *From enterprise systems to intelligent systems*
 
 </div>
 
 <br>
 
-## 📊 At a Glance
+## Statistics
 
 <div align="center">
 
@@ -23,23 +25,23 @@
 
 <br>
 
-## 💼 Impact Snapshot
+## Professional & Academic Overview
 
 <div align="center">
 
-| 🏢 Professional | 🎓 Academic | 🏆 Recognition |
+| Professional | Academic | Recognition |
 |:---:|:---:|:---:|
-| **Associate Developer @ PwC**<br>Enterprise Salesforce solutions | **B.Tech CSE, VIT Chennai**<br>CGPA: 8.37/10 | **Salesforce Days Champion**<br>PwC India Winner |
+| **Associate Developer, PwC**<br>Enterprise Salesforce solutions | **B.Tech CSE, VIT Chennai**<br>CGPA: 8.37/10 | **Salesforce Days Champion**<br>PwC India Winner |
 
 </div>
 
 <br>
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <div align="center">
 
-### Core
+### Core Languages
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,git" />
 
 ### Focus Areas
@@ -47,42 +49,42 @@
 <img src="https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Data_Engineering-FF6B35?style=for-the-badge&logo=apache-spark&logoColor=white" />
 
-### Enterprise
+### Enterprise Technologies
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/LWC-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Lightning_Web_Components-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 
 <br>
 
-## 🎓 Credentials
+## Certifications
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Salesforce_PD1-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce_Platform_Developer_I-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/Data_Cloud_Consultant-FF6B35?style=flat-square&logo=salesforce&logoColor=white" />
 <img src="https://img.shields.io/badge/AI_Associate-00D9FF?style=flat-square&logo=salesforce&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_SC--900-0089D6?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Security_Fundamentals-0089D6?style=flat-square&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" />
 
 </div>
 
 <br>
 
-## 🔬 Research Interests
+## Research Interests
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((AI/ML))
+  root((AI & ML))
     Systems
       Distributed Computing
       Cloud Architecture
     Intelligence
       Deep Learning
-      NLP
+      Natural Language Processing
     Applications
       Data Engineering
       Enterprise AI
@@ -92,7 +94,7 @@ mindmap
 
 <br>
 
-## 📫 Connect
+## Contact
 
 <div align="center">
 
@@ -100,7 +102,7 @@ mindmap
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshgoel7202@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansh-goel14)
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ansh-goel14&color=00D9FF&style=flat-square" />
 
