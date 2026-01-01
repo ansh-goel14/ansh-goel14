@@ -14,12 +14,18 @@
 
 <br>
 
-## Statistics
+## GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ansh-goel14&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh-goel14&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansh-goel14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh-goel14&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ansh-goel14&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)](https://git.io/streak-stats)
 
 </div>
 
@@ -76,19 +82,22 @@
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((AI & ML))
-    Systems
-      Distributed Computing
-      Cloud Architecture
-    Intelligence
-      Deep Learning
-      Natural Language Processing
-    Applications
-      Data Engineering
-      Enterprise AI
-```
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F61?style=for-the-badge&logoColor=white" /><br>
+<sub>Deep Learning • Neural Networks • Computer Vision</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Systems_&_Architecture-0089D6?style=for-the-badge&logoColor=white" /><br>
+<sub>Distributed Systems • Cloud Computing • Scalability</sub>
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Data_Science-00D9FF?style=for-the-badge&logoColor=white" /><br>
+<sub>Big Data • Analytics • ML Engineering</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
